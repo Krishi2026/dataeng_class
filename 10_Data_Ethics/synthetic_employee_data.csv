@@ -1,0 +1,321 @@
+Employee ID,Name,Gender,Department,Job Title,Salary,Nationality,Languages Spoken
+208-77-0713,Lacey Jones,Female,I/T,IT Specialist,70232,USA,Spanish
+721-57-7435,Derek Santiago,Male,Operations,Operations Manager,83281,India,French
+031-93-3519,Sarah Hamilton,Female,Administrative,Administrative Assistant,49390,India,
+441-36-9847,Manuel Lee,Male,I/T,IT Specialist,92725,India,
+275-05-5419,Cynthia Clark,Female,Sales,Sales Representative,49011,USA,
+349-70-2596,Cheryl Evans,Female,Product,Product Manager,80587,USA,"French, Hindi"
+512-83-0037,Andrew Nichols,Male,Finance,Financial Analyst,92247,USA,"French, Hindi"
+700-65-6515,Donald Maddox,Male,Marketing,Marketing Specialist,86890,India,Hindi
+195-83-0461,Yolanda Miller,Female,Operations,Operations Manager,80521,USA,Chinese
+439-34-7076,Jimmy Adkins,Male,I/T,IT Specialist,86123,USA,German
+190-57-6272,Michael Allison,Male,Legal,Paralegal,54421,India,"Spanish, Hindi"
+151-24-5260,Eric King Jr.,Male,Operations,Operations Manager,90159,USA,Hindi
+153-02-9050,Steven Rose,Male,Product,Product Manager,105599,India,"French, Chinese"
+673-13-5133,Kelli Davidson,Female,Administrative,Administrative Assistant,54926,China,
+466-35-0110,Matthew Mueller,Male,Operations,Operations Manager,79175,India,
+447-05-7663,Benjamin Williams,Male,Administrative,Administrative Assistant,36362,USA,
+770-77-8755,William Underwood,Male,I/T,IT Specialist,66752,USA,Spanish
+887-34-4794,Patrick Kemp,Male,Marketing,Marketing Specialist,68252,India,"French, German"
+466-79-1507,Theresa Collier,Female,Operations,Operations Manager,72036,USA,"German, Chinese"
+331-39-5657,Tasha Mcbride,Female,Administrative,Administrative Assistant,54695,USA,
+488-89-5580,Amy Fuller,Female,Product,Product Manager,106676,USA,German
+663-91-5449,Kathleen Conley,Female,Sales,Sales Representative,52225,India,
+441-63-9105,Melanie Flores,Female,Operations,Operations Manager,78830,USA,Chinese
+314-59-0660,Michael Meyer,Male,Sales,Sales Representative,58371,USA,Hindi
+057-37-3225,Andrew Morton,Male,Human Resource,HR Specialist,54024,China,"Spanish, French"
+356-67-0135,Phillip Lewis,Male,Human Resource,HR Specialist,63306,USA,
+002-30-3768,David Lewis,Male,Finance,Financial Analyst,74046,USA,"German, French"
+686-89-9823,Lisa Smith,Female,Marketing,Marketing Specialist,61022,USA,"Chinese, Spanish"
+288-70-2311,Luis Green,Male,Sales,Sales Representative,68165,India,"French, Hindi"
+643-32-1548,Jacob Owen,Male,Human Resource,HR Specialist,61706,USA,
+536-27-1925,Crystal Brown,Female,I/T,IT Specialist,72680,USA,"Hindi, Spanish"
+819-87-2331,Latoya Ramos,Female,Legal,Paralegal,74990,USA,German
+424-91-6189,Jonathan Marsh,Male,Finance,Financial Analyst,80096,India,"Hindi, Spanish"
+365-97-4187,Jason Hall,Male,Finance,Financial Analyst,88785,USA,
+424-23-0450,Justin Brooks,Male,Product,Product Manager,105959,China,"German, Hindi"
+787-99-6694,Nancy Farley,Female,Operations,Operations Manager,90875,USA,Hindi
+311-23-5877,Edward Beck,Male,Product,Product Manager,94439,India,"Hindi, Spanish"
+599-17-1999,Robin Lamb,Female,I/T,IT Specialist,92225,India,
+624-06-3275,Seth Weber,Male,Marketing,Marketing Specialist,78212,USA,French
+730-13-2722,Robert Leon,Male,Operations,Operations Manager,77836,India,Hindi
+032-74-6627,Maria Mclean,Female,Operations,Operations Manager,98860,USA,"Spanish, Chinese"
+147-31-8151,Joseph Hickman,Male,I/T,IT Specialist,93710,USA,French
+871-53-0140,Justin Little,Male,Legal,Paralegal,58632,USA,"Chinese, Hindi"
+071-53-2054,Donald Ramirez,Male,Human Resource,HR Specialist,51566,USA,French
+193-45-0490,Edward Robinson,Male,Operations,Operations Manager,92840,USA,French
+200-08-3907,Elizabeth Robinson,Female,I/T,IT Specialist,65095,USA,
+412-09-0104,Janet Joseph,Female,Operations,Operations Manager,80426,USA,Spanish
+447-76-2687,Angelica Moore,Female,Operations,Operations Manager,75442,USA,"Hindi, Chinese"
+173-57-2031,Eric Leon,Male,Marketing,Marketing Specialist,83058,USA,
+361-30-7480,Joel Sampson,Male,I/T,IT Specialist,70606,India,
+058-59-8847,Stacie Hamilton,Female,Operations,Operations Manager,70117,USA,
+466-06-1897,Mr. Matthew Chapman,Male,Legal,Paralegal,54091,India,
+759-91-2406,Brittany Butler,Female,Product,Product Manager,97491,India,Hindi
+022-15-8148,Brittany Harris,Female,Sales,Sales Representative,51867,USA,
+417-43-0061,Sarah Harvey,Female,Operations,Operations Manager,92278,USA,Spanish
+591-43-8644,Tyrone Williams,Male,I/T,IT Specialist,75640,USA,"German, Spanish"
+318-29-1175,Stephen Jones,Male,Operations,Operations Manager,74187,China,"Spanish, Chinese"
+238-78-9963,Kelly Kennedy,Female,Marketing,Marketing Specialist,74629,India,"Chinese, Spanish"
+864-14-6742,Derrick Serrano DDS,Male,Human Resource,HR Specialist,69424,USA,"Hindi, German"
+665-80-2000,Stephanie Garcia,Female,I/T,IT Specialist,78329,USA,Hindi
+319-17-7747,Kristy Thompson,Female,Product,Product Manager,91650,USA,Chinese
+499-08-0381,Tracy Kelley,Female,Product,Product Manager,111498,USA,"French, Chinese"
+582-92-1536,Kelsey Burke,Female,Marketing,Marketing Specialist,86643,India,"French, German"
+273-50-1851,Amy Monroe,Female,Product,Product Manager,92061,USA,"Hindi, French"
+400-64-2756,Michael Jensen,Male,Finance,Financial Analyst,92934,India,"Chinese, French"
+103-01-5064,Dr. Brian Duran,Male,Finance,Financial Analyst,70153,USA,
+671-81-3439,John Coleman,Male,Operations,Operations Manager,86765,USA,Hindi
+511-58-9329,Jason Farrell,Male,Marketing,Marketing Specialist,79949,USA,"German, French"
+543-21-4262,Robert Mclaughlin,Male,Administrative,Administrative Assistant,44171,India,
+146-08-1694,Aaron Johnson,Male,Operations,Operations Manager,87338,USA,
+402-37-9466,Rita Adams,Female,Operations,Operations Manager,84940,USA,"Hindi, Spanish"
+577-21-3782,Scott Wilson,Male,Marketing,Marketing Specialist,81037,India,"Spanish, French"
+650-30-2547,Amy Atkinson,Female,Operations,Operations Manager,83719,India,Chinese
+342-53-2538,Patricia Pierce,Female,Human Resource,HR Specialist,63765,India,
+027-16-5603,Devin Hamilton,Male,Human Resource,HR Specialist,54419,USA,
+010-88-0758,Daniel Ritter,Male,Marketing,Marketing Specialist,66479,USA,"Hindi, Chinese"
+528-21-8950,Grace Anderson,Female,Product,Product Manager,94078,USA,
+640-42-1640,Brett Schwartz,Male,Legal,Paralegal,77434,USA,
+575-24-6750,David Yates,Male,Sales,Sales Representative,64604,USA,"German, Spanish"
+514-15-2836,Kristine Tran,Female,I/T,IT Specialist,78971,India,
+022-08-8209,Mr. Brian Harrington DDS,Male,Sales,Sales Representative,47200,USA,
+588-03-6163,Jason Stone,Male,Marketing,Marketing Specialist,61608,USA,French
+078-76-4687,Connor Benitez,Male,Operations,Operations Manager,72718,USA,German
+883-57-9676,Miranda Edwards,Female,Human Resource,HR Specialist,74969,USA,
+707-34-9391,Erica Montoya,Female,Sales,Sales Representative,48439,USA,
+667-08-0649,Leslie Price,Male,Marketing,Marketing Specialist,63486,USA,"Chinese, Spanish"
+263-17-8707,Elizabeth Sherman,Female,Operations,Operations Manager,96852,USA,Chinese
+534-24-1655,Andrew Cooper,Male,I/T,IT Specialist,85445,India,French
+495-38-1740,David Chapman,Male,Human Resource,HR Specialist,66088,USA,
+306-79-0267,Jessica Morris,Female,Operations,Operations Manager,93331,India,
+475-29-0638,Victoria Lowery,Female,Human Resource,HR Specialist,73457,India,"German, Hindi"
+118-08-2350,Jonathan Johnson,Male,Product,Product Manager,87093,USA,German
+715-19-0858,Luke Herrera,Male,Sales,Sales Representative,69209,India,
+395-51-9833,Eric Perez,Male,Human Resource,HR Specialist,72131,USA,Hindi
+795-30-3963,Julian Stevens,Male,Sales,Sales Representative,58199,USA,"Hindi, Chinese"
+281-72-6783,Stefanie Wiggins,Female,Human Resource,HR Specialist,57024,USA,Spanish
+240-71-8299,Valerie Mclean,Female,Marketing,Marketing Specialist,60423,USA,
+389-12-0505,Adam Medina,Male,Operations,Operations Manager,83725,USA,"German, French"
+238-31-7247,Michael Harris,Male,Human Resource,HR Specialist,61077,India,
+314-22-6588,Wanda Gomez,Female,Product,Product Manager,101267,USA,
+883-35-7912,Norma Moyer,Female,Finance,Financial Analyst,68350,India,"Spanish, Hindi"
+362-12-4236,Kelli Taylor,Female,Sales,Sales Representative,68839,India,Chinese
+198-94-1518,Dawn Krause,Female,Legal,Paralegal,71970,India,"Hindi, Spanish"
+178-29-0864,Michelle Lewis,Female,Product,Product Manager,101576,USA,
+657-29-5846,Abigail Johnson,Female,Sales,Sales Representative,50918,China,
+022-36-1343,David Lee,Male,Operations,Operations Manager,95048,India,"German, Hindi"
+313-01-0820,Claudia Daniels,Female,Product,Product Manager,88357,China,"Spanish, Hindi"
+550-57-5172,Robert Cox,Male,Operations,Operations Manager,77060,USA,Hindi
+526-77-4565,Sheila Allison,Female,Legal,Paralegal,74995,USA,"Chinese, Spanish"
+447-84-8952,Andrew Green,Male,Operations,Operations Manager,94799,India,"Spanish, German"
+492-75-7035,Stephanie Hunt,Female,Administrative,Administrative Assistant,44693,USA,Spanish
+701-57-1643,Paul Moreno,Male,Finance,Financial Analyst,74592,USA,Spanish
+585-66-6492,Kelly Booth,Female,Human Resource,HR Specialist,64381,USA,"French, Hindi"
+130-29-3028,Terry Myers,Male,Product,Product Manager,109758,USA,"German, Hindi"
+611-80-2724,Daniel Cook,Male,Human Resource,HR Specialist,56355,USA,"Chinese, German"
+280-43-8749,Thomas Wilson,Male,Administrative,Administrative Assistant,54215,USA,"Spanish, Chinese"
+093-96-1069,Ronald Burgess,Male,Marketing,Marketing Specialist,67918,USA,
+580-52-5529,Nicholas Marsh,Male,Product,Product Manager,101481,Philippines,Chinese
+492-51-3830,Sean Holmes,Male,Operations,Operations Manager,72012,USA,
+420-53-2071,Mrs. Kelly Harvey,Female,Sales,Sales Representative,57154,USA,
+139-68-7440,Alicia Bolton,Female,Operations,Operations Manager,95527,USA,"French, Spanish"
+428-28-2530,Michael Andersen,Male,Administrative,Administrative Assistant,46205,India,German
+865-29-9265,Troy Barber,Male,Administrative,Administrative Assistant,52450,USA,"German, Spanish"
+865-50-8098,George Smith,Male,Administrative,Administrative Assistant,48747,India,
+637-03-5956,Courtney Garcia,Female,Sales,Sales Representative,60992,China,Spanish
+262-54-3779,Sylvia Miller,Female,Operations,Operations Manager,79947,USA,"Spanish, Chinese"
+818-64-2568,Alex Wright,Male,Sales,Sales Representative,46971,USA,
+492-88-2155,Katherine Mason,Female,Product,Product Manager,82786,India,German
+815-29-6173,Tracey Jones,Female,Finance,Financial Analyst,74798,India,
+173-04-7199,Susan Hernandez,Female,Legal,Paralegal,74016,USA,"Hindi, German"
+858-19-9979,Francisco Snyder MD,Male,Operations,Operations Manager,85100,USA,"German, French"
+542-96-4048,David Johnson,Male,Sales,Sales Representative,58594,USA,"Hindi, Spanish"
+393-79-9490,Krista Strong,Female,I/T,IT Specialist,91511,USA,Chinese
+475-06-2448,Roger Flores,Male,Human Resource,HR Specialist,60824,USA,Spanish
+569-17-4872,Cheryl Thompson,Female,Product,Product Manager,106888,India,
+757-97-1116,Joshua Horn,Male,Sales,Sales Representative,49662,USA,
+710-68-1639,Brian Jones,Male,Operations,Operations Manager,94933,USA,"Chinese, Spanish"
+410-44-2741,Louis Medina,Male,Product,Product Manager,82209,India,
+176-05-2393,Jessica Knight,Female,Product,Product Manager,83749,USA,Spanish
+516-16-0081,Elizabeth Smith DDS,Female,Finance,Financial Analyst,86993,USA,"French, Hindi"
+308-68-6785,Tara Evans,Female,Marketing,Marketing Specialist,86225,India,
+554-33-8134,James Serrano,Male,Human Resource,HR Specialist,60239,USA,
+158-09-9510,Caleb Grant MD,Male,Finance,Financial Analyst,77392,India,Spanish
+403-60-8832,Antonio Galloway,Male,Product,Product Manager,88064,USA,"Chinese, French"
+695-45-6885,Samantha Atkinson,Female,Sales,Sales Representative,58668,USA,
+393-68-5070,Brent Cox,Male,Finance,Financial Analyst,81956,USA,"Spanish, Hindi"
+387-44-3248,Jared Gonzalez,Male,Product,Product Manager,114561,USA,
+559-71-4774,Jennifer Swanson,Female,Product,Product Manager,94687,USA,"Chinese, German"
+775-07-0891,William Escobar,Male,Operations,Operations Manager,81637,India,German
+855-36-5574,Alexis Warner,Female,Product,Product Manager,88944,USA,"Hindi, Chinese"
+472-48-4925,Keith Arnold,Male,Finance,Financial Analyst,93055,USA,Chinese
+451-53-0608,Mathew Whitehead,Male,Operations,Operations Manager,80822,USA,"Chinese, Hindi"
+562-17-8592,Kristin Young,Female,Sales,Sales Representative,54235,India,Chinese
+686-83-1782,Suzanne Smith,Female,Product,Product Manager,92135,India,
+284-67-3003,Calvin Gallegos,Male,Product,Product Manager,100508,India,"Spanish, French"
+703-03-9203,Ashley Gill,Female,Sales,Sales Representative,61999,India,
+603-21-8391,Clifford Castro,Male,Human Resource,HR Specialist,64086,India,Spanish
+849-10-0422,Edward Murray,Male,I/T,IT Specialist,66493,USA,Chinese
+712-29-2414,Shelby Lucas,Female,Administrative,Administrative Assistant,46147,USA,"French, German"
+684-67-3857,David Reyes,Male,Product,Product Manager,88713,India,
+715-02-2075,Christopher Coleman,Male,Human Resource,HR Specialist,71125,USA,"Hindi, French"
+802-04-9223,Lisa Rowe,Female,Product,Product Manager,102742,USA,
+472-02-8728,Diane Wagner,Female,Administrative,Administrative Assistant,39173,India,Hindi
+484-16-6401,Tony Larsen,Male,Operations,Operations Manager,83269,India,
+595-03-5098,Ashley Gutierrez,Female,Human Resource,HR Specialist,51920,USA,"Spanish, Hindi"
+356-71-1512,Joseph Murphy,Male,Legal,Paralegal,68058,USA,"French, German"
+567-11-8944,Claudia Gardner,Female,Finance,Financial Analyst,84101,USA,Hindi
+610-17-9172,Renee Shepherd,Female,Product,Product Manager,86971,China,
+134-83-3737,Daniel Boyer,Male,Operations,Operations Manager,83509,USA,"Spanish, Hindi"
+179-02-1519,Thomas Green,Male,Product,Product Manager,96049,USA,Hindi
+303-17-4881,Timothy Walker,Male,Operations,Operations Manager,84476,USA,Chinese
+759-50-8792,Jacqueline Sanders,Female,I/T,IT Specialist,79546,India,"German, Hindi"
+533-11-0023,Christopher Moore,Male,Marketing,Marketing Specialist,80435,India,"Chinese, German"
+475-43-2825,Ryan Jordan,Male,Product,Product Manager,113124,USA,"Chinese, German"
+524-89-2641,Seth Gonzalez,Male,Marketing,Marketing Specialist,77470,India,
+023-82-4601,Leslie Prince,Female,Product,Product Manager,84855,India,"German, Hindi"
+277-58-2482,Alison Townsend,Female,Marketing,Marketing Specialist,79288,USA,
+401-68-1347,Cheryl Lewis,Female,I/T,IT Specialist,86510,USA,
+424-87-5399,Justin Bradford,Male,Operations,Operations Manager,90440,USA,"French, Spanish"
+068-29-3620,Amy Hickman,Female,Finance,Financial Analyst,88279,USA,"Hindi, Spanish"
+303-56-7354,Michael Branch,Male,Sales,Sales Representative,60189,USA,French
+389-76-9103,Barry White,Male,Product,Product Manager,114803,USA,"Chinese, Hindi"
+225-20-2307,Emily Morgan,Female,I/T,IT Specialist,68731,India,Hindi
+688-46-1647,Scott Browning,Male,Marketing,Marketing Specialist,74359,India,Hindi
+360-63-3024,Alex Hayes,Male,Administrative,Administrative Assistant,40823,India,
+351-83-1385,Patrick Howard,Male,Operations,Operations Manager,75464,USA,"Chinese, German"
+143-61-3856,Omar Ross,Male,Administrative,Administrative Assistant,42047,USA,"French, Spanish"
+173-45-0819,Mary Bautista,Female,Product,Product Manager,81164,India,"Spanish, German"
+259-15-6782,Jacqueline Campbell,Female,Operations,Operations Manager,73417,India,"Chinese, Hindi"
+751-03-4510,James Alvarez,Male,Human Resource,HR Specialist,68686,India,"Chinese, German"
+834-42-1827,Misty Walters,Female,Product,Product Manager,106395,USA,Hindi
+828-03-4727,Mr. Jonathan Williams,Male,Product,Product Manager,110122,USA,
+798-58-5092,Gina Garcia,Female,Administrative,Administrative Assistant,48721,USA,
+727-02-5693,Jeanette George,Female,Product,Product Manager,99220,USA,
+183-55-1929,Anthony Williams,Male,Finance,Financial Analyst,67476,USA,"French, German"
+104-74-1690,Patrick Perkins,Male,Human Resource,HR Specialist,60537,India,"French, German"
+201-04-6648,Adam Jackson,Male,Finance,Financial Analyst,70372,USA,"Chinese, French"
+603-45-9097,Kevin Austin,Male,Marketing,Marketing Specialist,73248,USA,
+295-61-5623,Melinda Obrien,Female,Sales,Sales Representative,55964,USA,
+133-42-3136,Jonathon Nguyen,Male,I/T,IT Specialist,94497,India,
+722-87-2055,Nancy Thompson,Female,Administrative,Administrative Assistant,42145,USA,Chinese
+335-52-8373,Karen Decker,Female,Operations,Operations Manager,85159,USA,
+400-69-2279,Alan Roman,Male,Legal,Paralegal,60679,USA,
+276-67-3284,Wayne Allen,Male,Administrative,Administrative Assistant,48111,USA,"German, Spanish"
+794-66-4430,Linda Rush,Female,Product,Product Manager,104178,USA,"Spanish, French"
+542-70-4998,Katelyn Schultz,Female,Human Resource,HR Specialist,74941,Taiwan,Hindi
+308-14-0321,Kevin Rice,Male,Administrative,Administrative Assistant,37760,USA,"German, Chinese"
+038-27-2326,Veronica Powell,Female,Marketing,Marketing Specialist,60458,USA,"German, Hindi"
+196-06-2819,Ann Garcia,Female,Product,Product Manager,112839,India,"German, Spanish"
+227-07-9067,Lisa Short,Female,Finance,Financial Analyst,86381,USA,"Chinese, German"
+787-64-2419,Amy Mullen,Female,Finance,Financial Analyst,75404,USA,
+020-97-1917,Nicole Alvarez,Female,Product,Product Manager,97762,India,Spanish
+687-80-5067,Kevin Chen,Male,Administrative,Administrative Assistant,36883,India,"Hindi, German"
+274-88-3397,Stephen Matthews,Male,Human Resource,HR Specialist,53173,India,Chinese
+888-99-7978,Shannon Brown,Female,Operations,Operations Manager,72336,USA,
+579-19-1910,Alexander Miller,Male,Marketing,Marketing Specialist,61983,USA,"Spanish, French"
+007-11-7178,Stacy Thompson,Female,Sales,Sales Representative,63035,India,"Spanish, Hindi"
+621-43-6014,Mrs. Ashley Yu,Female,Marketing,Marketing Specialist,69409,USA,"French, Spanish"
+113-53-5129,Scott Adkins,Male,Finance,Financial Analyst,76995,USA,"Spanish, Chinese"
+596-23-4012,Michael Marsh,Male,Operations,Operations Manager,89502,India,German
+270-31-1047,David Best,Male,Sales,Sales Representative,66141,USA,"Hindi, Chinese"
+798-73-8039,Kirsten Wallace,Female,Operations,Operations Manager,77548,USA,French
+259-91-0961,Sandra Lopez,Female,Operations,Operations Manager,92242,USA,Spanish
+008-11-2142,Micheal Watkins,Male,Operations,Operations Manager,92699,USA,Hindi
+791-28-5165,Michael Perez,Male,Marketing,Marketing Specialist,60472,USA,"French, German"
+021-94-8823,Thomas Decker,Male,Product,Product Manager,98008,India,
+857-80-9693,Jeremy Horton,Male,Administrative,Administrative Assistant,41481,USA,Chinese
+747-24-9039,Mark Jones,Male,Administrative,Administrative Assistant,50482,USA,French
+417-87-4056,Jessica Huffman,Female,I/T,IT Specialist,66827,USA,German
+380-27-4591,Nancy Oliver,Female,Marketing,Marketing Specialist,83080,USA,"Hindi, German"
+883-20-6751,Darren Ramirez,Male,Finance,Financial Analyst,69585,USA,French
+637-50-8414,Mark Ramos,Male,I/T,IT Specialist,94722,USA,"Spanish, Hindi"
+122-05-5154,Anthony Miller,Male,Sales,Sales Representative,59325,USA,
+830-99-4464,Andrew Scott,Male,Marketing,Marketing Specialist,61702,USA,
+058-31-7466,Megan Wilson,Female,Marketing,Marketing Specialist,89863,USA,"French, German"
+460-22-3693,Heidi Taylor,Female,Human Resource,HR Specialist,50735,India,French
+333-52-0546,Stephen Cervantes,Male,Marketing,Marketing Specialist,77162,India,"German, Spanish"
+803-61-5994,Jason Parker,Male,Sales,Sales Representative,69675,India,
+009-97-3329,Amanda Spence,Female,Finance,Financial Analyst,71803,USA,Spanish
+787-18-1637,Clayton Levy,Male,Product,Product Manager,100427,India,French
+208-87-3071,Colin Steele MD,Male,Marketing,Marketing Specialist,81953,USA,French
+824-27-4466,Thomas Thomas,Male,Operations,Operations Manager,72864,China,Chinese
+305-54-9897,Elizabeth Wagner,Female,Administrative,Administrative Assistant,46869,USA,
+270-33-7775,Angela Thomas,Female,Operations,Operations Manager,70329,USA,"Chinese, French"
+118-16-8041,Vincent Park,Male,Sales,Sales Representative,67652,India,
+171-21-3900,Amber Smith,Female,Marketing,Marketing Specialist,80598,USA,
+439-10-2132,Mr. James Bass,Male,Human Resource,HR Specialist,56121,India,
+175-24-8683,Mary Macdonald,Female,Sales,Sales Representative,48429,USA,"Hindi, German"
+758-78-9760,Tara Anderson,Female,Operations,Operations Manager,99423,USA,French
+080-09-3942,Miguel Miller,Male,Product,Product Manager,91250,USA,Hindi
+675-55-9342,Joshua Woodward,Male,I/T,IT Specialist,87443,USA,Spanish
+222-03-9962,Joel Burnett,Male,Administrative,Administrative Assistant,45498,USA,Spanish
+767-65-9491,Hunter Russell,Male,Product,Product Manager,93114,India,
+586-95-1496,Matthew Morgan,Male,Finance,Financial Analyst,81999,USA,Chinese
+145-05-7627,Mark Lewis,Male,Sales,Sales Representative,73626,China,"French, German"
+247-54-5616,Heather Curry,Female,Operations,Operations Manager,92054,USA,
+031-31-9719,Laura Davis,Female,Operations,Operations Manager,74530,India,"French, Chinese"
+529-57-3877,Matthew Vasquez,Male,Operations,Operations Manager,70573,USA,French
+836-86-8694,Sarah Tate,Female,Sales,Sales Representative,53161,India,Chinese
+421-38-5180,Justin Holmes,Male,Human Resource,HR Specialist,71099,USA,
+599-72-3270,Michelle Ramirez,Female,Legal,Paralegal,79579,USA,
+721-62-3368,Jennifer Carlson,Female,Product,Product Manager,115571,USA,"French, Chinese"
+619-98-6829,Ashley Williams,Female,Product,Product Manager,82219,USA,Hindi
+067-76-8882,Michael Carter,Male,Operations,Operations Manager,97067,USA,Chinese
+469-45-2053,Steven Jenkins,Male,I/T,IT Specialist,68668,USA,French
+515-57-7476,Shawn Mclaughlin,Male,Operations,Operations Manager,86638,USA,"Chinese, French"
+302-62-0035,Samantha Larson,Female,Operations,Operations Manager,99817,USA,Spanish
+023-10-8528,James Torres,Male,Operations,Operations Manager,85091,USA,"Spanish, Chinese"
+296-51-3200,Sandy Ramirez,Female,Product,Product Manager,108110,USA,
+770-57-7715,Jonathan Simpson,Male,Administrative,Administrative Assistant,48228,USA,French
+772-78-9925,Victor Trujillo,Male,Product,Product Manager,108408,India,Spanish
+008-78-2852,Jonathan Harper,Male,Operations,Operations Manager,88709,USA,
+195-61-1445,Joshua Hickman,Male,Operations,Operations Manager,76311,USA,German
+472-12-6558,Richard Campbell,Male,I/T,IT Specialist,91138,USA,Hindi
+118-94-9931,Ryan Mckinney,Male,Product,Product Manager,109993,USA,
+593-79-2683,James Valdez,Male,Operations,Operations Manager,71035,USA,Hindi
+018-79-8624,Julia Jefferson,Female,Operations,Operations Manager,81737,USA,
+719-60-6721,Austin Johnson,Male,Operations,Operations Manager,80242,USA,"Spanish, Chinese"
+361-23-9847,Kristina Sutton,Female,Marketing,Marketing Specialist,87556,USA,
+247-87-2370,Nicholas Castro,Male,Legal,Paralegal,72693,India,Hindi
+240-84-4930,Brenda Krause,Female,Operations,Operations Manager,90747,USA,German
+658-62-5444,Alicia Jones,Female,I/T,IT Specialist,66259,USA,
+311-70-2932,Debra Martin,Female,Operations,Operations Manager,81159,China,French
+695-35-0290,Breanna Mendoza,Female,Sales,Sales Representative,61278,USA,Spanish
+755-26-4876,Chelsey Burke,Female,I/T,IT Specialist,77847,India,German
+540-40-4892,Nicholas Tucker,Male,Administrative,Administrative Assistant,53209,USA,"German, Hindi"
+333-83-6893,Vanessa Simpson,Female,Product,Product Manager,111205,India,
+153-03-4110,Brian Harrison,Male,Operations,Operations Manager,70226,USA,"Spanish, German"
+738-30-4388,Angela Schmidt,Female,Human Resource,HR Specialist,71976,India,Spanish
+296-46-5861,Peter Le,Male,I/T,IT Specialist,85357,USA,"Chinese, German"
+259-84-7507,Theodore Robinson,Male,Sales,Sales Representative,61692,USA,
+706-93-7269,Steven Sampson,Male,I/T,IT Specialist,65769,USA,French
+216-77-0164,Christopher Norton,Male,Operations,Operations Manager,92122,USA,"German, Spanish"
+761-43-2005,Dr. Darryl Gray,Male,Marketing,Marketing Specialist,70105,Philippines,
+852-72-8689,John Bolton,Male,Sales,Sales Representative,67588,USA,French
+728-32-9877,Brittany Smith,Female,Operations,Operations Manager,75349,India,Chinese
+090-24-9029,Jeffrey Walsh,Male,Operations,Operations Manager,87778,USA,Spanish
+022-17-2436,Erica Moore,Female,Product,Product Manager,99134,USA,"French, Spanish"
+025-36-5722,Cassandra Roth,Female,Human Resource,HR Specialist,72452,USA,
+292-27-2462,Jennifer Williams,Female,Marketing,Marketing Specialist,71347,USA,"Spanish, French"
+539-86-3566,Beth Johnson,Female,I/T,IT Specialist,88676,India,
+635-73-2928,Jessica Faulkner,Female,Administrative,Administrative Assistant,43580,USA,"Spanish, Chinese"
+017-60-0970,Debbie Hamilton,Female,Marketing,Marketing Specialist,77077,USA,Spanish
+582-05-0381,Julie Matthews,Female,Operations,Operations Manager,92757,USA,German
+506-68-8141,Mr. Stephen Price,Male,Administrative,Administrative Assistant,41334,China,Spanish
+866-66-5938,Natasha Medina,Female,Operations,Operations Manager,95147,USA,"Hindi, Spanish"
+157-67-7207,William Ramos,Male,Operations,Operations Manager,94063,China,Chinese
+117-01-5498,Teresa Gonzalez,Female,I/T,IT Specialist,83416,USA,Hindi
+140-43-4826,Sara Mendez,Female,Operations,Operations Manager,99134,USA,
+689-45-3889,Chelsea Walker,Female,Human Resource,HR Specialist,57221,China,
+031-66-7960,Lauren Mcmillan,Female,Operations,Operations Manager,95278,Canada,"Hindi, French"
+625-28-3062,Jose Duke,Male,Sales,Sales Representative,72439,USA,
+838-01-8968,Edward Armstrong,Male,Marketing,Marketing Specialist,65794,USA,"Spanish, Hindi"
+278-65-8663,Thomas Castaneda,Male,Administrative,Administrative Assistant,54713,USA,Hindi
+741-12-0629,Seth Miller,Male,Sales,Sales Representative,67289,India,Hindi
+709-80-6445,Charles Garza,Male,Sales,Sales Representative,45674,China,"French, Hindi"
+651-83-0168,Marvin Stevens,Male,Administrative,Administrative Assistant,42084,India,
+874-85-9787,Melissa Rojas,Female,Operations,Operations Manager,93614,USA,Chinese
+135-30-5124,Dr. Matthew Manning,Male,I/T,IT Specialist,75821,USA,Chinese
+607-05-8879,Cynthia Owens,Female,Operations,Operations Manager,92292,Canada,German
